@@ -358,6 +358,18 @@
       "online": "true",
       "import": false
     },
+{
+      "name": "AHORA O NUNCA",
+      "image": "https://pics.filmaffinity.com/Ahora_o_nunca-732515118-large.jpg",
+      "url": "https://pixeldrain.net/u/XmWUeCDS",
+      "info": "[2024][Español]",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "ALONE",
       "info": "[2020][Español]",
@@ -752,18 +764,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "AHORA O NUNCA",
-      "image": "https://pics.filmaffinity.com/Ahora_o_nunca-732515118-large.jpg",
-      "url": "https://pixeldrain.net/u/XmWUeCDS",
-      "info": "[2024][Español]",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": " ANORA",
+"image": "https://pics.filmaffinity.com/anora-968355846-mmed.jpg",
+"url": "https://vidmoly.biz/embed-jn2msuhn3twk.html",
+"info": "[2024]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "APARCACOCHES, EL",
       "info": "2022",
@@ -5075,6 +5087,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": " IDOLOS",
+"image": "https://pics.filmaffinity.com/idolos-422079049-mmed.jpg",
+"url": "https://vidmoly.biz/embed-11cwmwc4eoku.html",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "ILEGALES 82",
       "image": "https://pics.filmaffinity.com/ilegales_82-404369993-large.jpg",
