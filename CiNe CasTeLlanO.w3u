@@ -142,11 +142,11 @@
     {
       "name": "30 DIAS",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/g8fpyt9SzzgoIr4iymrOuSGxgaZ.jpg",
-      "url": "https://byseraguci.com/d/scr6qqmiuzkp",
+      "url": "https://byseraguci.com/e/scr6qqmiuzkp",
       "info": "[2020][Acción, comedia]",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
-      "embed": "",
+      "embed": "true",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -154,11 +154,11 @@
     {
       "name": " 47, El",
       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/gzdhZFz3gUTu5MneQZYozmbKsLf.jpg",
-      "url": "https://byseraguci.com/d/xxlb2lg2ykcy",
+      "url": "https://byseraguci.com/e/xxlb2lg2ykcy",
       "info": "[2024]",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
-      "embed": "",
+      "embed": "true",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -222,14 +222,6 @@
       "url": "https://listeamed.net/v/27BaOnaP3YQEMDX",
       "userAgent": "PlusMediaPlayer/0.0.9",
       "embed": "",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "1984",
-      "info": "[Vose.Sub][1956]",
-      "image": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1956/3/w1280/uMy4m4pJFG7evl5ho1xYNujQLhc.jpg",
-      "url": "https://ok.ru/video/7771371014709",
       "isHost": "true",
       "online": "true"
     },
