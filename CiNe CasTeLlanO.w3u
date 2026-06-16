@@ -9695,6 +9695,18 @@
       "isHost": "true",
       "online": "true"
     },
+ {
+      "name": "THE THING",
+      "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/5hkM27bPdkgQli5g5zR5pp9bkNZ.jpg",
+      "url": "https://bysetayico.com/e/qsvtz03rgr5g",
+      "info": "1982",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+ },
     {
       "name": "THELMA,LA VENGANZA NUNCA HA SIDO TAN DULCE",
       "image": "https://i.postimg.cc/NfmD1yjp/IMG-20241129-222225-566.jpg",
