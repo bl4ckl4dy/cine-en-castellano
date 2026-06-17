@@ -1557,6 +1557,18 @@
       "isHost": "true",
       "online": "true"
     },
+{
+"name": " Brothers Under Fire ",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+"url": "https://byseraguci.com/e/hxgsyfpdcqlv",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "BRUTALIST, THE",
       "image": "https://pics.filmaffinity.com/the_brutalist-339944470-large.jpg",
@@ -3362,6 +3374,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": " Drea & Cloe ",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/i0CekRC1hE1qLTLhdVJlmI7nKpc.jpg",
+"url": "https://byseraguci.com/e/vreham4wf880",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "DUAL",
       "image": "https://pics.filmaffinity.com/dual-155453589-large.jpg",
@@ -5808,6 +5832,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": " La herencia del mal",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/uAcnQS3dl7i40DjnWzzQLg87q4E.jpg",
+"url": "https://byseraguci.com/e/keu8q5ofthoq",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LA HUELLA DEL MAL",
       "info": "[2025][Español]",
@@ -10075,6 +10111,38 @@
       "online": "true",
       "import": false
     },
+{
+      "name": "ULTIMA CENA (LAST SUPPER)",
+      "image": "https://pics.filmaffinity.com/the_last_supper-908462420-large.jpg",
+      "url": "https://listeamed.net/v/eL2157MVGykErw4",
+      "info": "1995",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "import": false
+    },
+    {
+      "name": "ULTIMAS VOLUNTADES",
+      "image": "https://i.postimg.cc/nLMwhfnq/IMG-20241216-225219-485.jpg",
+      "url": "https://filemoon.to/d/fxo5xio2ekpp",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "info": "2024",
+      "isHost": "true",
+      "online": "true"
+    },
+    {
+      "name": "ULTIMO REFUGIO,EL",
+      "image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
+      "url": "https://filemoon.to/d/f2pkdfvm22qs/El__ltimo_refugio",
+      "info": "[2025][Suspense, Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
     {
       "name": "UMAMI",
       "image": "https://i.postimg.cc/wxZrr76K/IMG-20250213-191027-829.jpg",
@@ -10141,6 +10209,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": " undertone",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+"url": "https://byseraguci.com/e/yp1k6frfujrq",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "UNOS SUEGROS DE ARMAS TOMAR",
       "image": "https://i.postimg.cc/Xq1NvF8K/Unos-suegros-de-armas-tomar-2023-Pelicula.jpg",
@@ -10163,38 +10243,7 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "ULTIMA CENA (LAST SUPPER)",
-      "image": "https://pics.filmaffinity.com/the_last_supper-908462420-large.jpg",
-      "url": "https://listeamed.net/v/eL2157MVGykErw4",
-      "info": "1995",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "import": false
-    },
-    {
-      "name": "ULTIMAS VOLUNTADES",
-      "image": "https://i.postimg.cc/nLMwhfnq/IMG-20241216-225219-485.jpg",
-      "url": "https://filemoon.to/d/fxo5xio2ekpp",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "info": "2024",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "ULTIMO REFUGIO,EL",
-      "image": "https://pics.filmaffinity.com/for_morket-406589871-large.jpg",
-      "url": "https://filemoon.to/d/f2pkdfvm22qs/El__ltimo_refugio",
-      "info": "[2025][Suspense, Drama]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+   
     {
       "name": "VACACIONES DE VERANO",
       "info": "2023",
