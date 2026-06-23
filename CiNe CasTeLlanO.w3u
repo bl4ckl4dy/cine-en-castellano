@@ -2838,6 +2838,18 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+{
+"name": " Dancing queen: Triunfando en Hollywood",
+"image": "https://pics.filmaffinity.com/dancing_queen_in_hollywood-370073789-mmed.jpg",
+"url": "https://byseraguci.com/e/ni6mtf7m9438/dancing-queen-triunfando-en-hollywood-2025",
+"info": "[2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "DARK HARVEST (COSECHA OSCURA)",
       "image": "https://pics.filmaffinity.com/dark_harvest-901698076-large.jpg",
@@ -3496,51 +3508,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
-    {
-      "name": "EMBOSCADA, LA",
-      "info": "2023",
-      "image": "https://i.postimg.cc/QxDxF7jy/Ambush-2023-Pelicula.jpg",
-      "url": "https://bembed.net/v/04rQxWW4NwJxb2N",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true"
-    },
-    {
-      "name": "EN BUSCA DE JOY",
-      "image": "https://pics.filmaffinity.com/tyler_perry_s_finding_joy-126789104-large.jpg",
-      "url": "https://filemoon.to/d/z1zd6vzqyqav/En_busca_de_Joy",
-      "info": "[2025][Drama]",
-      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-      "referer": "",
-      "embed": "true",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "ENCIENDEME",
-      "image": "https://i.postimg.cc/vT6njwQs/IMG-20250407-232315-694.jpg",
-      "url": "https://filemoon.to/d/ha5nutydoc2i",
-      "info": "2024",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
-    {
-      "name": "EMMANUELLE",
-      "image": "https://pics.filmaffinity.com/emmanuelle-380790485-large.jpg",
-      "info": "2024",
-      "url": "https://listeamed.net/v/3Q0lxBqqG9L5j1J",
-      "userAgent": "PlusMediaPlayer/0.0.9",
-      "embed": "true",
-      "referer": "",
-      "isHost": "true",
-      "online": "true",
-      "import": false
-    },
+{
+"name": " El bajo perdido de McCartney",
+"image": "https://pics.filmaffinity.com/mccartney_the_hunt_for_the_lost_bass-418673288-mmed.jpg",
+"url": "https://byseraguci.com/e/6l033oabxo13/el-bajo-perdido-de-mccartney",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "EL COLEGIO DE LOS ANIMALES MAGICOS",
       "info": "[2021][Español]",
@@ -3595,6 +3574,15 @@
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9"
     },
+ {
+      "name": "EMBOSCADA, LA",
+      "info": "2023",
+      "image": "https://i.postimg.cc/QxDxF7jy/Ambush-2023-Pelicula.jpg",
+      "url": "https://bembed.net/v/04rQxWW4NwJxb2N",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true"
+    },
     {
       "name": "EMILIA PÉREZ",
       "image": "https://i.postimg.cc/Jnnjmx23/IMG-20250218-231742-861.jpg",
@@ -3612,6 +3600,30 @@
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
       "referer": "",
       "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+ {
+      "name": "EN BUSCA DE JOY",
+      "image": "https://pics.filmaffinity.com/tyler_perry_s_finding_joy-126789104-large.jpg",
+      "url": "https://filemoon.to/d/z1zd6vzqyqav/En_busca_de_Joy",
+      "info": "[2025][Drama]",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "referer": "",
+      "embed": "true",
+      "isHost": "true",
+      "online": "true",
+      "import": false
+    },
+    {
+      "name": "ENCIENDEME",
+      "image": "https://i.postimg.cc/vT6njwQs/IMG-20250407-232315-694.jpg",
+      "url": "https://filemoon.to/d/ha5nutydoc2i",
+      "info": "2024",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "referer": "",
       "isHost": "true",
       "online": "true",
       "import": false
@@ -3659,6 +3671,18 @@
       "isHost": "true",
       "online": "true",
       "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+ {
+      "name": "EMMANUELLE",
+      "image": "https://pics.filmaffinity.com/emmanuelle-380790485-large.jpg",
+      "info": "2024",
+      "url": "https://listeamed.net/v/3Q0lxBqqG9L5j1J",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "true",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
       "import": false
     },
     {
@@ -6079,6 +6103,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": " Los miserables: El origen",
+"image": "https://pics.filmaffinity.com/jean_valjean-898059860-mmed.jpg",
+"url": "https://byseraguci.com/e/16scxyr1r0lu/los-miserables-el-origen",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "LOS VIGILANTES",
       "info": "[2024][Español]",
@@ -8259,6 +8295,18 @@
       "userAgent": "PlusMediaPlayer/0.0.9",
       "import": false
     },
+{
+"name": " Protector",
+"image": "https://pics.filmaffinity.com/protector-984694487-mmed.jpg",
+"url": "https://byseraguci.com/e/fym7vkx9t0u4/protector",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "PROYECTO ADAM, EL",
       "image": "https://pics.filmaffinity.com/the_adam_project-982692706-large.jpg",
@@ -9427,6 +9475,18 @@
       "online": "true",
       "import": false
     },
+{
+"name": " Solo mío",
+"image": "https://pics.filmaffinity.com/solo_mio-533398345-large.jpg",
+"url": "https://byseraguci.com/e/vi8ml68dznz1/solo-mio",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "true",
+"isHost": "true",
+"online": "true",
+"import": false
+},
     {
       "name": "SOLO UNA VEZ",
       "info": "2021",
